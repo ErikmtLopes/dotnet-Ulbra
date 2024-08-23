@@ -1,0 +1,14 @@
+C:\Users\Erik Lopes\Documents\ULBRA\Lab_Prog\TDE_Aula03\bin\Debug\net8.0\TDE_Aula03.exe
+C:\Users\Erik Lopes\Documents\ULBRA\Lab_Prog\TDE_Aula03\bin\Debug\net8.0\TDE_Aula03.deps.json
+C:\Users\Erik Lopes\Documents\ULBRA\Lab_Prog\TDE_Aula03\bin\Debug\net8.0\TDE_Aula03.runtimeconfig.json
+C:\Users\Erik Lopes\Documents\ULBRA\Lab_Prog\TDE_Aula03\bin\Debug\net8.0\TDE_Aula03.dll
+C:\Users\Erik Lopes\Documents\ULBRA\Lab_Prog\TDE_Aula03\bin\Debug\net8.0\TDE_Aula03.pdb
+C:\Users\Erik Lopes\Documents\ULBRA\Lab_Prog\TDE_Aula03\obj\Debug\net8.0\TDE_Aula03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Erik Lopes\Documents\ULBRA\Lab_Prog\TDE_Aula03\obj\Debug\net8.0\TDE_Aula03.AssemblyInfoInputs.cache
+C:\Users\Erik Lopes\Documents\ULBRA\Lab_Prog\TDE_Aula03\obj\Debug\net8.0\TDE_Aula03.AssemblyInfo.cs
+C:\Users\Erik Lopes\Documents\ULBRA\Lab_Prog\TDE_Aula03\obj\Debug\net8.0\TDE_Aula03.csproj.CoreCompileInputs.cache
+C:\Users\Erik Lopes\Documents\ULBRA\Lab_Prog\TDE_Aula03\obj\Debug\net8.0\TDE_Aula03.dll
+C:\Users\Erik Lopes\Documents\ULBRA\Lab_Prog\TDE_Aula03\obj\Debug\net8.0\refint\TDE_Aula03.dll
+C:\Users\Erik Lopes\Documents\ULBRA\Lab_Prog\TDE_Aula03\obj\Debug\net8.0\TDE_Aula03.pdb
+C:\Users\Erik Lopes\Documents\ULBRA\Lab_Prog\TDE_Aula03\obj\Debug\net8.0\TDE_Aula03.genruntimeconfig.cache
+C:\Users\Erik Lopes\Documents\ULBRA\Lab_Prog\TDE_Aula03\obj\Debug\net8.0\ref\TDE_Aula03.dll
