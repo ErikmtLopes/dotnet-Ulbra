@@ -1,0 +1,4 @@
+C:\projetos\ulbra\Lab_prog\aula13\Projeto01\obj\Debug\net8.0\Projeto01.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetos\ulbra\Lab_prog\aula13\Projeto01\obj\Debug\net8.0\Projeto01.AssemblyInfoInputs.cache
+C:\projetos\ulbra\Lab_prog\aula13\Projeto01\obj\Debug\net8.0\Projeto01.AssemblyInfo.cs
+C:\projetos\ulbra\Lab_prog\aula13\Projeto01\obj\Debug\net8.0\Projeto01.csproj.CoreCompileInputs.cache

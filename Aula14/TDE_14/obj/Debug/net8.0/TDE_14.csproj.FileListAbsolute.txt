@@ -1,0 +1,14 @@
+C:\projetos\ulbra\Lab_prog\Aula13\TDE_14\bin\Debug\net8.0\TDE_14.exe
+C:\projetos\ulbra\Lab_prog\Aula13\TDE_14\bin\Debug\net8.0\TDE_14.deps.json
+C:\projetos\ulbra\Lab_prog\Aula13\TDE_14\bin\Debug\net8.0\TDE_14.runtimeconfig.json
+C:\projetos\ulbra\Lab_prog\Aula13\TDE_14\bin\Debug\net8.0\TDE_14.dll
+C:\projetos\ulbra\Lab_prog\Aula13\TDE_14\bin\Debug\net8.0\TDE_14.pdb
+C:\projetos\ulbra\Lab_prog\Aula13\TDE_14\obj\Debug\net8.0\TDE_14.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetos\ulbra\Lab_prog\Aula13\TDE_14\obj\Debug\net8.0\TDE_14.AssemblyInfoInputs.cache
+C:\projetos\ulbra\Lab_prog\Aula13\TDE_14\obj\Debug\net8.0\TDE_14.AssemblyInfo.cs
+C:\projetos\ulbra\Lab_prog\Aula13\TDE_14\obj\Debug\net8.0\TDE_14.csproj.CoreCompileInputs.cache
+C:\projetos\ulbra\Lab_prog\Aula13\TDE_14\obj\Debug\net8.0\TDE_14.dll
+C:\projetos\ulbra\Lab_prog\Aula13\TDE_14\obj\Debug\net8.0\refint\TDE_14.dll
+C:\projetos\ulbra\Lab_prog\Aula13\TDE_14\obj\Debug\net8.0\TDE_14.pdb
+C:\projetos\ulbra\Lab_prog\Aula13\TDE_14\obj\Debug\net8.0\TDE_14.genruntimeconfig.cache
+C:\projetos\ulbra\Lab_prog\Aula13\TDE_14\obj\Debug\net8.0\ref\TDE_14.dll

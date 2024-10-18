@@ -1,0 +1,14 @@
+C:\projetos\ulbra\Lab_prog\aula13\Projeto02\obj\Debug\net8.0\Projeto02.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetos\ulbra\Lab_prog\aula13\Projeto02\obj\Debug\net8.0\Projeto02.AssemblyInfoInputs.cache
+C:\projetos\ulbra\Lab_prog\aula13\Projeto02\obj\Debug\net8.0\Projeto02.AssemblyInfo.cs
+C:\projetos\ulbra\Lab_prog\aula13\Projeto02\obj\Debug\net8.0\Projeto02.csproj.CoreCompileInputs.cache
+C:\projetos\ulbra\Lab_prog\aula13\Projeto02\bin\Debug\net8.0\Projeto02.exe
+C:\projetos\ulbra\Lab_prog\aula13\Projeto02\bin\Debug\net8.0\Projeto02.deps.json
+C:\projetos\ulbra\Lab_prog\aula13\Projeto02\bin\Debug\net8.0\Projeto02.runtimeconfig.json
+C:\projetos\ulbra\Lab_prog\aula13\Projeto02\bin\Debug\net8.0\Projeto02.dll
+C:\projetos\ulbra\Lab_prog\aula13\Projeto02\bin\Debug\net8.0\Projeto02.pdb
+C:\projetos\ulbra\Lab_prog\aula13\Projeto02\obj\Debug\net8.0\Projeto02.dll
+C:\projetos\ulbra\Lab_prog\aula13\Projeto02\obj\Debug\net8.0\refint\Projeto02.dll
+C:\projetos\ulbra\Lab_prog\aula13\Projeto02\obj\Debug\net8.0\Projeto02.pdb
+C:\projetos\ulbra\Lab_prog\aula13\Projeto02\obj\Debug\net8.0\Projeto02.genruntimeconfig.cache
+C:\projetos\ulbra\Lab_prog\aula13\Projeto02\obj\Debug\net8.0\ref\Projeto02.dll
